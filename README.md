@@ -1,5 +1,5 @@
-# 💫 About Me:
-            I'm a recent graduate of Computer Science / Games and Interactivity from Swinburne University of Technology.<br>            Specialising in full-stack web development, I have experience building scalable applications and dev tools,<br>            having worked on projects using Agile methodologies. Passionate about clean architecture, great UX, and<br>            learning new technologies. When I'm not coding I'm reverse-engineering how things work and finding better ways to build them.
+# About Me:
+I'm a recent graduate of Computer Science / Games and Interactivity from Swinburne University of Technology.<br>Specialising in full-stack web development, I have experience building scalable applications and dev tools,<br>having worked on projects using Agile methodologies. Passionate about clean architecture, great UX, and<br>learning new technologies. When I'm not coding I'm reverse-engineering how things work and finding better ways to build them.
 
 
 # 💻 Tech Stack:
@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RoseRegiment&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=RoseRegiment&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=RoseRegiment&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
